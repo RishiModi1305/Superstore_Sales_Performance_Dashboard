@@ -1,0 +1,12 @@
+1. The West region contributed the highest revenue (~725,000), 
+   making up roughly 32% of total company sales.
+
+2. Tables and Bookcases sub-categories showed negative profit 
+   margins despite moderate sales volume — likely due to high 
+   discounting or shipping costs.
+
+3. Sales consistently spike in Q4 (October–December) every year, 
+   suggesting seasonal demand — useful for inventory planning.
+
+4. The Technology category had the highest average profit margin 
+   among all 3 categories, while Furniture had the lowest.
